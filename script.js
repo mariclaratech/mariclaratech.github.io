@@ -1,5 +1,4 @@
-
-        setTimeout(() => {
+         setTimeout(() => {
             document.getElementById("main-text").style.opacity = "1";
         }, 500);
 
